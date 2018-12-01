@@ -1,8 +1,7 @@
 # BattleShipGame
 Stimulate the battleship game between human and computer(random coordinate) in java
 
-You can run the Game on cmd by typing java -jar link-to-jar\BatteShipFinal.jar or downloading the file .exe to run it
-
+You can run the Game on cmd by typing java -jar link-to-jar\BatteShipFinal.jar 
 When run the file, you should see
 
 ![image](https://user-images.githubusercontent.com/44376091/49333417-7b708b80-f58c-11e8-913f-b40e856429e1.png)
