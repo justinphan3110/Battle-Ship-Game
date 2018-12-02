@@ -22,7 +22,7 @@ The code for the save
 ![image](https://user-images.githubusercontent.com/44376091/49333438-d1453380-f58c-11e8-9259-27559e3ef6bc.png)
 
 
-###Setting Up:
+### Setting Up:
   1.you will initialize the final ROW and COL of the game play
   2. you will intialize the coordinate of the 2 side ship (can put it random using Math.random()):
   
